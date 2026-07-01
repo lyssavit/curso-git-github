@@ -1,3 +1,5 @@
-teste de git no terminal 1.
+# Título do meu README
+
+Aqui teremos informações relativas ao meu projeto.
 
 
